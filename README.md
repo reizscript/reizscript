@@ -62,7 +62,7 @@ print(monty_python.gif)
 
 ---
 
-<!-- Spotify Card -->
+<!-- Spotify Card
 
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=313vybqp7toazhs62mvrjildnvpu">
