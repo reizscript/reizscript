@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" width="30" style="margin-left: 10px;" />
 </h2>
 
-I’m an enthusiastic developer and community builder. Feel free to connect!
+Feel free to connect!
 
 - ✉️ **Email:** [reizscript@gmail.com](mailto:takiscript@gmail.com)  
 - 💬 **Discord:** [reizscript](https://discord.com/users/754676438099034142) 
