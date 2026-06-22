@@ -1,8 +1,6 @@
-<h2 style="margin-bottom: 5px;">Hello, I'm Reiz
+<h1 style="margin-bottom: 5px;">Hello, world! 
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" width="30" style="margin-left: 10px;" />
-</h2>
-
-Feel free to connect!
+</h1>
 
 - ✉️ **Email:** [reizscript@gmail.com](mailto:takiscript@gmail.com)  
 - 💬 **Discord:** [reizscript](https://discord.com/users/754676438099034142) 
